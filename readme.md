@@ -25,4 +25,4 @@ npm run server
 
 ## Live Version
 
-https://fullstack-goal.herokuapp.com/
+https://mern-crud-goal.herokuapp.com/
